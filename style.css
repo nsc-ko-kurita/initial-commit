@@ -1,0 +1,24 @@
+header{
+    background: #427ef5;
+    padding: 20px ;
+    text-align: center;
+}
+.header-box{
+    width: 940px;
+    margin: 0 auto;
+    position:relative;
+}
+img.unnamed{
+    widows: 200px;
+    height:200px;
+}
+img.r1{
+    width:300px;
+    height:200px;
+}
+.table1{
+    text-align:center;
+}
+a{
+    text-decoration: none;
+}
